@@ -26,7 +26,7 @@
 
 ### 2. AI & Machine Learning Models
 * **Detection Model:** ใช้การทำ Instance Segmentation เพื่อแยกวัตถุในระดับพิกเซล
-* **Sweetness Prediction Model:** ใช้ Regression Analysis (Supervised Learning) เพื่อทำนายค่าความหวาน ($Brix$) จากคุณลักษณะทางทัศนีย์ เช่น ปริภูมิสี (RGB, HSV, Lab*), พื้นผิว (Texture) และสัณฐานวิทยา (Morphology)
+* **Sweetness Prediction Model:** ใช้ Regression Analysis (Supervised Learning) เพื่อทำนายค่าความหวาน ($Brix$) จากคุณลักษณะทางทัศนีย์ เช่น ปริภูมิสี (RGB, HSV, Lab*), พื้นผิว (Texture) และรูปร่างสัณฐานวิทยา (Morphology)
 
 <img width="809" height="607" alt="image" align="center" src="https://github.com/user-attachments/assets/62155a7b-d3d1-4aad-bbb5-e2c3507d2d52" />
 
